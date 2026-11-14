@@ -1,6 +1,6 @@
 # Alan Quenardelle
 
-Desarrollador web full-stack con experiencia en proyectos reales para clientes. Estudiante de Ingeniería en Sistemas de Información en UTN FRRe (Resistencia, Chaco).
+Desarrollador web full-stack con experiencia en proyectos reales para clientes. Técnico Universitario en Programación recibido en UTN FRRe · Cursando Ingeniería en Sistemas de Información (Resistencia, Chaco).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alan%20Quenardelle-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-quenardelle-aaa63b268/)
 
